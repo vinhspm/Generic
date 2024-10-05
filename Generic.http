@@ -1,0 +1,6 @@
+@Generic_HostAddress = https://localhost:7271
+
+GET {{Generic_HostAddress}}
+Accept: application/json
+
+###
